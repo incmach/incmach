@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @incmach
-- 👀 I’m interested in writing down geometrical and graphical ideas using symbolic computations.
+- 👀 I’m interested in writing down geometrical and graphical ideas, in particular, using symbolic computations.
 - 🌱 I’m currently learning [SymPy](https://github.com/sympy/sympy) for that purpose.
 - 📫 You can reach me at incmach@gmail.com.

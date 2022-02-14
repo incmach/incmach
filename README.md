@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @incmach
-- 👀 I’m interested in writing down geometrical and graphical ideas in code.
-- 🌱 I’m currently learning [SymPy](https://github.com/sympy/sympy) for that purpose.
+- 👀 I’m interested in describing images by code.
 - 📫 You can reach me at incmach@gmail.com.
